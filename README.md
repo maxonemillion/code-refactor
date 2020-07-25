@@ -1,4 +1,4 @@
-## Code Refactor
+## CODE REFACTOR
 
 Bootcamp Homework Assignment #1
 
@@ -9,6 +9,10 @@ The purpose of this assigment was to clean up the code provided and make it more
 ## WHAT I LEARNED
 
 I learned the importance of cleaning up code. The original version of this was cluttered, disorganized, and contained broken links. The CSS elements were completely out of order. 
+
+## SCREENSHOT
+
+![project screeshot](assets/images/screenshot.png)
 
 ## LINKS
 
