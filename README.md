@@ -12,5 +12,6 @@ I learned the importance of cleaning up code. The original version of this was c
 
 ## LINKS
 
-deployed application:
-GitHub repository: 
+deployed application: https://maxonemillion.github.io/code-refactor/
+
+GitHub repository: https://github.com/maxonemillion/code-refactor
